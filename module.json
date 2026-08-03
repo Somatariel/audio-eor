@@ -1,0 +1,28 @@
+{
+    "id": "audio-eor-ch1",
+    "name": "audio-eor-ch1",
+    "title": "Audio: Eve of Ruin Ch1",
+    "description": "Playlists for Eve of Ruin: Chapter 1",
+    "version": "1.1.0",
+    "authors": [
+        {
+            "name": "Soma"
+        }
+    ],
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "14",
+    "compatibility": {
+        "minimum": "9",
+        "verified": "14"
+    },
+    "packs": [
+        {
+            "name": "eor-ch1-playlists",
+            "label": "Eve of Ruin: Ch1 - Playlists",
+            "path": "./packs/playlists.db",
+            "type": "Playlist"
+        }
+    ],
+    "manifest": "https://github.com/Somatariel/audio-eor-ch1/releases/latest/download/module.json",
+    "download": "https://github.com/Somatariel/audio-eor-ch1/releases/latest/download/audio-eor-ch1.zip"
+  }
