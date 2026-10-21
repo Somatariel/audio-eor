@@ -3,7 +3,7 @@
     "name": "audio-eor",
     "title": "Audio: Eve of Ruin",
     "description": "Playlists for Eve of Ruin",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "authors": [
         {
             "name": "Soma"
@@ -18,7 +18,7 @@
     "packs": [
         {
             "name": "eor-playlists",
-            "label": "Eve of Ruin: Playlists",
+            "label": "Vecna: Eve of Ruin Playlists",
             "path": "./packs/playlists.db",
             "type": "Playlist"
         }
